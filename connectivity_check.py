@@ -35,8 +35,8 @@ def commandexecution(ip, name):
 
 
 device_lookup_d = { 
-'10.22.47.139':'bleaf1',
-'10.22.47.140':'bleaf2',
+'10.122.254.135':'rtp2-leaf1',
+'10.122.254.128':'rtp2-leaf2',
  }
 
 
