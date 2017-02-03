@@ -1,0 +1,8 @@
+cd /tmp
+%                                                                               pod2-apic1# ls
+aci-apic-dk9.2.2.1n.iso    odev.crt	  standby-av-fixup-output.txt
+aci-n9000-dk9.12.2.1n.bin  odev.csr	  vrf-init.log
+av-fixup-output.txt	   odev.key	  vrf-set-spineproxy.log
+bootstrap_2.log		   sc.Z1d9SbmdGa
+odev-cacert.cert	   snmpd2.pid
+%                                                                               pod2-apic1# 
